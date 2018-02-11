@@ -1,0 +1,74 @@
+@charset "utf-8";
+*{ padding:0px; margin:0px;}
+body{background:#fff; color:#444444; font-size:13px; font-family: arial, Arial, Helvetica, sans-serif;}
+ul,dl,dd,ol,li{list-style: none;}
+em,strong,i{font-style:normal;}
+input{outline:none;}
+img{vertical-align:middle; border:0px;}
+a{color:#333;}
+a,a:visited{text-decoration:none;}
+textarea{resize:none;}
+.font12{font-size:12px !important;}
+.font14{font-size:14px;}
+.font16{font-size:16px;}
+.color-333{color:#333;}
+.color-666{color:#666;}
+.color-gray{color:#999;}
+.color-orange{color:#ea5716;}
+.color-blue{color:#0285e0;}
+.font-b{font-weight:700;}
+.none{ display:none;}
+
+/*浮动*/
+.fl{float:left;}
+.fr{float:right;}
+.clear{clear:both;}
+
+/*状态*/
+.position-r{
+	position: relative;
+	}
+.textC{
+	text-align:center !important; 
+	}
+.textR{
+	text-align:right; 
+	}
+.textL{
+	text-align:left; 
+	}
+
+.clearB:after{
+	content: '';
+	display: table;
+	clear: both;
+}
+.clearB:before{
+	content: '';
+	display: table;
+}
+
+/*间距*/
+.margin-top20{
+	margin-top: 20px;
+}
+.paddingTB30{
+	padding-bottom:30px;
+	padding-top:30px;
+	}		
+.paddingT15{
+	padding-top: 15px;
+}
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
